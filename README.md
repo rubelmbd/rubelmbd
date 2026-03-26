@@ -92,7 +92,7 @@ I am a dedicated **SEO Specialist** and **IT Professional** with a strong founda
 <div align="center">
   
 <a href="mailto:contact@rubeltech.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="contact@rubeltech.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/rubelmbd" target="_blank">
