@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Rubel Mondol 👋
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Rubel+Mondol+👋;SEO+Specialist;Network+Administrator;IT+Consultant" alt="Typing SVG" /></p>
 ### SEO Specialist | IT Specialist | Network Administrator
 
 ---
