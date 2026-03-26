@@ -11,61 +11,95 @@ I am a dedicated **SEO Specialist** and **IT Professional** with a strong founda
 - 🛠️ **Infrastructure:** Expert in MikroTik RouterOS, Ubuntu Server, and VoIP solutions.
 - ⚡ **Innovation:** Building HomeLab environments and automating billing via PHPNuxBill.
 
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **SEO & Marketing** | Google Search Console, Analytics, Technical SEO, Keyword Mapping |
-| **Networking** | MikroTik, RouterOS, Pi-hole, Starlink, VoIP |
-| **Server & Dev** | Ubuntu, Linux, Bash, HTML5, CSS3 |
-| **Industry Apps** | C&A GIN, PLM, Pivot88, OCS, IAA |
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rubelmbd&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="rubelmbd" style="padding-right:20px;" />
+</p>
 
 ---
 
-<!--Github stats Table--> 
+<table border="0">
+  <tr>
+    <td width="35%" valign="middle" align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="Skills_Animation_White.gif">
+        <img width="300" alt="Tech Animation" src="Skills_Animation_White.gif">
+      </picture>
+    </td>
+    <td width="65%" valign="top">
+      <h3>🛠️ Tech Stack & Tools</h3>
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Skills & Tools</th>
+        </tr>
+        <tr>
+          <td><b>SEO & Marketing</b></td>
+          <td>Google Search Console, Analytics, Technical SEO, Keyword Mapping</td>
+        </tr>
+        <tr>
+          <td><b>Networking</b></td>
+          <td>MikroTik, RouterOS, Pi-hole, Starlink, VoIP</td>
+        </tr>
+        <tr>
+          <td><b>Server & Dev</b></td>
+          <td>Ubuntu, Linux, Bash, HTML5, CSS3</td>
+        </tr>
+        <tr>
+          <td><b>Industry Apps</b></td>
+          <td>C&A GIN, PLM, Pivot88, OCS, IAA</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rubelmbd">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=rubelmbd&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rubelmbd">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=rubelmbd&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rubelmbd/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=rubelmbd&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rubelmbd">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rubelmbd">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=rubelmbd&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rubelmbd">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=rubelmbd&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rubelmbd/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=rubelmbd&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/rubelmbd">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=rubelmbd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 <br />
+
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
