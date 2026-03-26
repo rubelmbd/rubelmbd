@@ -1,35 +1,40 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Rubel+Mondol+👋;SEO+Specialist;Network+Administrator;IT+Consultant" alt="Typing SVG" /></p>
-### SEO Specialist | IT Specialist | Network Administrator
+# Md. Rubel Mondol 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&width=800&lines=SEO+Specialist+%26+Digital+Strategist;Professional+Network+Administrator;Industrial+IT+Solutions+Specialist)
 
 ---
 
 ### 🚀 Professional Snapshot
-I am a dedicated SEO Specialist and IT professional with expertise in **Search Engine Optimization** and **Network Infrastructure**. I focus on driving digital growth through technical SEO, content strategy, and data-driven results while maintaining robust IT systems.
+I am a dedicated **SEO Specialist** and **IT Professional** with a strong foundation in **Network Infrastructure**. I specialize in bridging the gap between technical backend systems and digital growth.
 
 - 🔍 **SEO Focus:** Technical SEO, Keyword Research, and On-Page Optimization.
-- 🔭 **Professional Background:** Working in the Garments Manufacturing industry (Finishing Section).
-- 🛠️ **Networking:** Expert in MikroTik RouterOS, Ubuntu Server management, and VoIP solutions.
-- ⚡ **Personal Projects:** Managing HomeLab environments and implementing automated billing systems like PHPNuxBill.
+- 🔭 **Industry:** Garments Manufacturing Sector (Finishing & Technical Operations).
+- 🛠️ **Infrastructure:** Expert in MikroTik RouterOS, Ubuntu Server, and VoIP solutions.
+- ⚡ **Innovation:** Building HomeLab environments and automating billing via PHPNuxBill.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-| **Category** | **Skills** |
+
+| Category | Skills & Tools |
 | :--- | :--- |
 | **SEO & Marketing** | Google Search Console, Analytics, Technical SEO, Keyword Mapping |
-| **Networking** | MikroTik, RouterOS, VoIP, Starlink, Pi-hole |
-| **Operating Systems** | Ubuntu Desktop/Server, Linux Command Line, Bash |
-| **Industrial IT** | C&A GIN, PLM, Pivot88, OCS, IAA |
+| **Networking** | MikroTik, RouterOS, Pi-hole, Starlink, VoIP |
+| **Server & Dev** | Ubuntu, Linux, Bash, HTML5, CSS3 |
+| **Industry Apps** | C&A GIN, PLM, Pivot88, OCS, IAA |
 
 ---
 
 ### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rubelmbd&show_icons=true&theme=tokyonight&count_private=true" alt="Rubel's GitHub stats" />
-</p>
+![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmbd&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubelmbd&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rubelmbd)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+### 🤝 Let's Connect
+- **Facebook:** [fb.com/rubelmbd](https://www.facebook.com/rubelmbd)
+- **LinkedIn:** [linkedin.com/in/rubelmbd](https://www.linkedin.com/in/rubelmbd)
+- **Email:** contact@rubeltech.com
+
+---
+*"Building secure networks and ranking high on SERPs."*
